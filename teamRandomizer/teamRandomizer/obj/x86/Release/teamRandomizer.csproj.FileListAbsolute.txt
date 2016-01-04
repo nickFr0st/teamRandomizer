@@ -1,0 +1,10 @@
+C:\Users\Nathanael\Desktop\test\teamRandomizer\teamRandomizer\bin\Release\teamRandomizer.exe
+C:\Users\Nathanael\Desktop\test\teamRandomizer\teamRandomizer\bin\Release\teamRandomizer.pdb
+C:\Users\Nathanael\Desktop\test\teamRandomizer\teamRandomizer\obj\x86\Release\teamRandomizer.Form1.resources
+C:\Users\Nathanael\Desktop\test\teamRandomizer\teamRandomizer\obj\x86\Release\teamRandomizer.Properties.Resources.resources
+C:\Users\Nathanael\Desktop\test\teamRandomizer\teamRandomizer\obj\x86\Release\teamRandomizer.csproj.GenerateResource.Cache
+C:\Users\Nathanael\Desktop\test\teamRandomizer\teamRandomizer\obj\x86\Release\teamRandomizer.exe
+C:\Users\Nathanael\Desktop\test\teamRandomizer\teamRandomizer\obj\x86\Release\teamRandomizer.pdb
+C:\Users\Nathanael\Desktop\test\teamRandomizer\teamRandomizer\obj\x86\Release\teamRandomizer.csprojResolveAssemblyReference.cache
+C:\Users\Nathanael\Desktop\test\teamRandomizer\teamRandomizer\obj\x86\Release\teamRandomizer.AboutBox1.resources
+C:\Users\Nathanael\Desktop\test\teamRandomizer\teamRandomizer\obj\x86\Release\teamRandomizer.MessageForm.resources
